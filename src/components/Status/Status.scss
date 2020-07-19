@@ -1,0 +1,15 @@
+.status{
+    border: 2px solid black;
+    color: blue;
+    font-weight: bold;
+    font-size: 20px;
+    &.red{
+        color: red;
+    }
+    &.green{
+        color: green;
+    }
+    &.blue{
+        color: blue;
+    }
+}
