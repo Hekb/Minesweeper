@@ -5,6 +5,8 @@ Built using React and Typescript then deployed on AWS Amplify.</br>
 
 **Screenshots**</br>
 <img src="sc1.png" width="300" height="400"></img>
+<img src="sc2.png" width="300" height="400"></img>
+<img src="sc3.png" width="300" height="400"></img>
 
 **How to Run**
 - Clone Repo
