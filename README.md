@@ -4,7 +4,7 @@ Live Demo: https://master.d2uu4hkp2wbjkj.amplifyapp.com/
 Built using React and Typescript then deployed on AWS Amplify. 
 
 **Screenshots**
-<img src="sc1.png"></img>
+<img src="sc1.png" width="100" height="100"></img>
 
 **How to Run**
 - Clone Repo
